@@ -1,6 +1,6 @@
 # Cryptography Assignment 1 — Discrete Logarithms and Hash Functions
 
-**B.Tech Semester 4 · Cryptography · Group 9**
+**B.Tech Semester 3 · Modern Cryptography · Group 9**
 
 | Roll No. | Name |
 |---:|---|
